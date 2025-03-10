@@ -7,7 +7,7 @@ Data Scientist | Data Engineer | Data Analyst
 I am passionate about Data Science, Data Engineering, and Analytics. With a background in Control System & Instrumentation Engineering, I have experience in Machine Learning, Data Visualization, and building predictive models. I enjoy solving real-world problems with data-driven insights and am eager to learn new technologies in the data field.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [https://github.com/Pariman1419](mailto:https://github.com/Pariman1419)
+* ✉️  You can contact me: Lorthongdaeng.prm@gmail.com
 * 🧠  I'm learning SQL, Cloud Data Engineering and Deep Learning.
 * 🤝  I'm open to collaborating on I’m Open to Collaborating On: Data-driven projects, predictive analytics, and real-world ML applications.
 
